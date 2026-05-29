@@ -102,7 +102,7 @@ Una ventana de contexto es la cantidad máxima de tokens que el modelo puede "ve
 **Pregunta:**
 
 ```text
-¿Cómo integrar esto con Kubernetes?
+¿Qué es un token y por qué no equivale necesariamente a una palabra?
 ```
 
 **Respuesta esperada:**
